@@ -1,0 +1,25 @@
+#message-div input {
+  width: 90%;
+}
+
+#name-div input {
+  width: 20%;
+}
+
+
+button {
+  width: 8%;
+}
+
+#name-div {
+  top: 50%;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+}
+
+#message-div {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
